@@ -34,14 +34,14 @@ pip install nltk wordcloud matplotlib
 
 Clone the repository:
 
-git clone https://github.com/yourusername/twitter-analysis.git
+git clone https://github.com/sidkarle/Twitter-Analysis.git
 cd twitter-analysis
 
 
 View the generated word cloud and sentiment results.
 
 📊 Example Output
-![image](https://github.com/user-attachments/assets/cb375002-872d-4740-a91d-31892d0075a4)
+![image](https://github.com/user-attachments/assets/1df0c361-e8b5-4d5f-a89e-056e44b236f0)
 
 
 🤝 Contributing
